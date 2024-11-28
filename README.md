@@ -151,16 +151,16 @@ void loop() {
 4. Monitor air quality data on the LCD and ThingSpeak cloud.
 
 ## Circuit Diagram 
-https://github.com/PkX10/IOT_Air_Quality/blob/23770d84c5e5ab52544bde273fe31aa83800c24c/Connections.png
+![image_alt](https://github.com/PkX10/IOT_Air_Quality/blob/23770d84c5e5ab52544bde273fe31aa83800c24c/Connections.png)
 ## Block Diagram
-https://github.com/PkX10/IOT_Air_Quality/blob/23770d84c5e5ab52544bde273fe31aa83800c24c/Block%20Diagram.png
+![image_alt](https://github.com/PkX10/IOT_Air_Quality/blob/23770d84c5e5ab52544bde273fe31aa83800c24c/Block%20Diagram.png)
 ## Flow Chart
-https://github.com/PkX10/IOT_Air_Quality/blob/23770d84c5e5ab52544bde273fe31aa83800c24c/flowchart.png
+![image_alt](https://github.com/PkX10/IOT_Air_Quality/blob/23770d84c5e5ab52544bde273fe31aa83800c24c/flowchart.png)
 ## Sequence Diagram
-https://github.com/PkX10/IOT_Air_Quality/blob/23770d84c5e5ab52544bde273fe31aa83800c24c/Sequence%20Diagram.png
+![image_alt](https://github.com/PkX10/IOT_Air_Quality/blob/23770d84c5e5ab52544bde273fe31aa83800c24c/Sequence%20Diagram.png)
 ## Readings 
-https://github.com/PkX10/IOT_Air_Quality/blob/23770d84c5e5ab52544bde273fe31aa83800c24c/Air%20Quality%20Graph.png
-https://github.com/PkX10/IOT_Air_Quality/blob/23770d84c5e5ab52544bde273fe31aa83800c24c/Air%20Quality%20PPM.png
+![image_alt](https://github.com/PkX10/IOT_Air_Quality/blob/23770d84c5e5ab52544bde273fe31aa83800c24c/Air%20Quality%20Graph.png)
+![image_alt](https://github.com/PkX10/IOT_Air_Quality/blob/23770d84c5e5ab52544bde273fe31aa83800c24c/Air%20Quality%20PPM.png)
 
 ## Notes
 - Ensure proper connections and power supply to avoid malfunction.
