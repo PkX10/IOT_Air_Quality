@@ -14,7 +14,7 @@ int buz = D8;   //buzzer led connected to pin 8
 
 String apiKey = "ThinkSpeak_Write_API_key";     //  Enter your Write API key here
 const char *ssid =  "WIFI_SSID";     // Enter your WiFi Name
-const char *pass =  "password"; // Enter your WiFi Password
+const char *pass =  "WIFI_password"; // Enter your WiFi Password
 const char* server = "api.thingspeak.com";
 WiFiClient client;
 
